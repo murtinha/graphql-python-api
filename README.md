@@ -1,1 +1,1 @@
-A python api using Apollo with Pyhton for study purposes
+A graphql api using Pyhton for study purposes with a postgres docker container
